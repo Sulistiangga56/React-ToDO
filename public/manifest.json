@@ -1,0 +1,21 @@
+{
+    "short_name": "React TODO",
+    "name": "ToDoList app using React framework - Angga Sulistiangga",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "64x64",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "favicon.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#363062",
+    "background_color": "#fdf9f0"
+  }
+  
